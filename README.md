@@ -12,6 +12,6 @@
 ---
 
 ### About me
-- M.S. in Mechanical Engineering at Drexel (expected 2025)  
+- M.S. in Mechanical Engineering at Drexel University (Sept 2025)  
 - I design and build systems that connect hardware, software, and people  
   
